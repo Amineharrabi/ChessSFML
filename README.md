@@ -58,7 +58,7 @@ Adding a analysis (chess.com like) [in process]
 ## screenshots
 
 ![Screenshot 1](https://github.com/Amineharrabi/ChessSFML/blob/main/images/SCREENIE1.png)
-![Screenshot 2](https://github.com/Amineharrabi/ChessSFML/blob/main/images/SCREENIE1.png)
+![Screenshot 2](https://github.com/Amineharrabi/ChessSFML/blob/main/images/SCREENIE2.png)
 
 
 
