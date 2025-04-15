@@ -29,8 +29,8 @@ This project is a chess game built using **SFML (Simple and Fast Multimedia Libr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/v0_chess.git
-   cd v0_chess
+   git clone https://github.com/Amineharrabi/ChessSFML.git
+   cd ChessSFML
    ```
 2. Install SFML:
    Download SFML from SFML's official website.
